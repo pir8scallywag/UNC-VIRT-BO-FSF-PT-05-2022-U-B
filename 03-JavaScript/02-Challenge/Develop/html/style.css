@@ -266,8 +266,8 @@ section {
   opacity: 75%;
 }
 
-/* Pastel Puzzle Image Styling */
-.pastel-puzzles {
+/* CSS Image Styling */
+.CSS {
   background-image: url(../images/peter-f-XURJBJi_wDE-unsplash.jpg);
   background-size: cover;
   width: 47.5%;
@@ -278,20 +278,20 @@ section {
   position: relative; 
 }
 
-/* Pastel Puzzle Hover Styling */
-.pastel-puzzles:hover {
+/* CSS Hover Styling */
+.CSS:hover {
   opacity: 75%;
 }
 
 /* Run Buddy Image Styling */
 .run-buddy {
-  background-image: url(../images/Screen\ Shot\ 2021-05-02\ at\ 5.19.30\ AM.png);
+  background-image: url("03-JavaScript/02-Challenge/Assets/pexels-pixabay-235922.jpg");
   background-size: cover;
   width: 47.5%;
   height: 300px;
   margin-bottom: 2%;
   margin-left: 0.5%;
-  border: darkred 5px solid;
+  border: rgb(209, 232, 6) 5px solid;
   position: relative; 
 }
 
