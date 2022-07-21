@@ -48,6 +48,6 @@ You are required to submit BOTH of the following for review:
 https://pir8scallywag.github.io/module2challenge/03-JavaScript/02-Challenge/Develop/html/index.html
 
 * The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-https://github.com/pir8scallywag/module2challenge
+https://github.com/pir8scallywag/myportfolio-module2
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
